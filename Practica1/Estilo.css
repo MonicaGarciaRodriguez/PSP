@@ -1,0 +1,23 @@
+﻿body{
+	margin-left:50px;margin-right:500px;
+}
+p{
+	text-align:justify;
+	font-family:Arial, Time new roman;
+	color:black
+	
+}
+h1,h2,h3{
+	font-family:verdana;
+	color:blue;
+	
+}
+a:link{	text-decoration:none;color:blue;}
+	
+a:visited{text-decoration:none; color:green;}
+
+a:active{text-decoration:none; color:orange;}
+
+a:hover{text-decoration:underline;color:black;}
+
+	
